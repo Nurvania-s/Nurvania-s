@@ -45,7 +45,7 @@ Here are some technologies I use and learn:
 
 ### 📬 Contact Me
 
-* 📫 **Email**: nurvania.vn@email.com  
+* 📫 **Email**: nurvania.vn@gmail.com  
 * 🔗 **LinkedIn**: [Nurvania Syakir](https://www.linkedin.com/in/nurvania-syakir-6a0143293)  
 * 😄 **Pronouns**: She/Her  
 * ⚡ **Fun fact**: I prefer **debugging at 3 AM** because it’s calmer and I can focus better!
